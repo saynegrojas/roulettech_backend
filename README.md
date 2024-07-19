@@ -7,7 +7,7 @@ This is the backend part of the Roulettech web application, built with Django an
 1. Clone the repository:
 
    ```bash
-   https://github.com/saynegrojas/roulettech_backend.git
+   git clone https://github.com/saynegrojas/roulettech_backend.git
    
 2. Create a virtual environment and activate it:
 
