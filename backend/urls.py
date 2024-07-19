@@ -14,9 +14,3 @@ urlpatterns = [
     path('api/', include('api.urls'))
 
 ]
-
-
-# Mirgrations
-# When you make changes to your data models, you need to run migrations to update your database schema. 
-# python manage.py makemigrations --> creates the file that specifies the migrations that need to be performed
-# python manage.py migrate --> after making the migrations, we need to apply the migrations
